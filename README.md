@@ -6,18 +6,22 @@
 
 <br/>
 
+## 📌 Notice
+다라쓰는 현재 별도의 Organization에서 개발을 이어가고 있어요.  
+[darass-team](https://github.com/darass-team)에서 많은 관심 부탁드립니다!  
+<br/>
 
 ## 📝 Introduce
 
 다라쓰는 스크립트 코드를 웹 페이지에 붙여넣는 것만으로 간편하게 댓글 기능을 추가할 수 있는 댓글 모듈 서비스 입니다.
 
-사용자에게 필요한 댓글 기능과 함께 운영에 필요한 댓글 통계 및 관리 기능도 제공합니다.
+사용자에게 필요한 댓글 기능과 함께 운영에 필요한 댓글 통계 및 관리 기능도 제공합니다.  
+<br/>
 
 ## 🐤 Demo
 - [다라쓰 체험해보기](https://woowacourse-darass.tistory.com/1)
 
 - [다라쓰 시작하기](https://darass.co.kr)
-
 <br/>
 
 ## ⭐ Main Feature
